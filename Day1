@@ -1,0 +1,43 @@
+#Introduction 
+#Day 1 - Study Python with Lam Hung
+
+print('Hello World!')   # print: lệnh hiển thị dữ liệu ra màn hình
+
+# Các phép toán
+print (2 + 3)    #addition (+)
+print (3 - 1)    #subtraction (-)
+print (3 * 4)    #multiplicatin (*)
+print (4 / 2)    #division (/)
+print (3 ** 2)   #exponential (**)
+print (3 % 2)    #modulus (%)
+print (3 // 2)   #floor divison operator (//) 
+
+#Example: 
+#Chia lấy phần dư (modulus): 
+# 17 % 3 = 2; 16 % 4 = 0: 21 % 5 = 1
+#Chia lấy phần nguyên (floor division operator):
+# 17 // 5 = 3; -17 // 5 =  -4
+# division:
+# 17 / 5 =  3.4; 18 / 3 = 6.0
+
+
+#Data types 
+# int: số nguyên ( 1, 2, 3, 6, 1000, 9999,...)
+# float: số thực (3.14, 5.22, 22.9,6.9,...)
+# complex: số phức (2 + 3j, 2a +4,...)
+# string: chuỗi ký tự (lamhung, yourname,...)
+# list: danh sách ([1,2,3,6,7], ["Hung", "Anh", "YourName"])
+# dictionary: từ điển 
+# tuple: The list is similar but cannot be changed.
+
+
+#Checking data types
+print(type(1057623))                   # Int
+print(type(5.8282))                    # Float
+print(type(2a + 9))                    # Complex
+print(type('LamHung'))                 # String
+print(type([1, 2, 3]))                 # List
+print(type({'name': 'LamHung'}))       # Dictionary
+print(type({9.8, 3.14, 2.7}))          # Tuple
+
+
