@@ -1,6 +1,7 @@
 Day3_Python_with_Lam_Hung
 
 Assignment Operators
+
 Assignment operators are used to assign values to variables. Let us take = as an example. Equal sign in mathematics shows that two values are equal, however in Python it means we are storing a value in a certain variable and we call it assignment or a assigning value to a variable. T
 
 <img width="1125" height="698" alt="image" src="https://github.com/user-attachments/assets/84744401-0711-49c0-a9e4-514085155072" />
